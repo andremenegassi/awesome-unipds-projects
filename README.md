@@ -51,6 +51,8 @@ MCP servers that extend AI assistants with new tools and capabilities.
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [alvesribeirof/architecture-analysis-mcp](https://github.com/alvesribeirof/architecture-analysis-mcp) `#️⃣` `🔗` – MCP server for architectural code analysis focusing on SOLID principles, Design Patterns, and immediate feedback to the developer. **by [@alvesribeirof](https://github.com/alvesribeirof)**
 
+- [barateza/mcp-plesk-dev-docs](https://github.com/barateza/mcp-plesk-dev-docs) `🐍` `🏠` `🔗` – MCP server that provides AI agents with local access to Plesk developer documentation. **by [@barateza](https://github.com/barateza)**
+
 - [JeisonSilva/mcp-OmniMatch](https://github.com/JeisonSilva/mcp-OmniMatch) `📇` `🏠` – MCP server that maps Angular screens to .NET Web API endpoints, accumulates extracted schemas in SQLite across multiple tool calls, and evaluates frontend–backend field and type compatibility — at zero LLM API cost. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [JeisonSilva/consultor-contas](https://github.com/JeisonSilva/consultor-contas) `📇` `☁️` `🔗` – MCP server that exposes a real estate budget analysis tool: reads property cost CSVs (IPTU, condominium fees, insurance), filters and ranks properties via a LangGraph planner–responder pipeline, and answers natural-language queries via OpenRouter. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 
@@ -67,6 +69,8 @@ Autonomous agents that accomplish multi-step tasks using LLMs.
 - [SyanCS/alvorada_real_estate](https://github.com/SyanCS/alvorada_real_estate) `📇` `🔗` – Real estate research platform with three LangGraph pipelines for feature extraction from notes, natural-language property ranking, and Neo4j GraphRAG similarity search. **by [@SyanCS](https://github.com/SyanCS)**
 - [matheusmschaffer/entrevistador-implacavel](https://github.com/matheusmschaffer/entrevistador-implacavel) `TypeScript` `AI Agent` – LangGraph agent that conducts job interviews with four distinct personalities, evaluates answers silently, and delivers dramatic feedback. **by [@matheusmschaffer](https://github.com/matheusmschaffer)**
 - [MarceloSoiber/credit-card-fraud-detection](https://github.com/MarceloSoiber/credit-card-fraud-detection) `🐍` `🔗` – Local credit card fraud detection platform with FastAPI, PostgreSQL, Docker, a web dashboard, model training workflows, sequence-based ML inference, transaction import, risk scoring, and optional LLM-powered fraud analysis. **by [@MarceloSoiber](https://github.com/MarceloSoiber)**
+- [CelIA](https://github.com/karendcs/CELIA) — AI agent for intelligent Excel spreadsheet querying using local RAG architecture with Ollama, ChromaDB and fully local processing. **by [@karendcs](https://github.com/karendcs/CELIA)**
+- [odairmichaelbendotti/code-sheriff](https://github.com/odairmichaelbendotti/code-sheriff) `📇` `☁️` – AI agent that connects to GitHub, automatically fetches open Pull Requests, and analyzes them in real time to detect security vulnerabilities, performance bottlenecks, and technical debt, providing intelligent fix suggestions before they reach production. **by [@odairmichaelbendotti](https://github.com/odairmichaelbendotti)**
   
 ---
 
@@ -90,12 +94,19 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [giovaninogueira/fruit-ninja-robot](https://github.com/giovaninogueira/fruit-ninja-robot) – Interactive Fruit Ninja game with real-time fruit classification using YOLOv8 and ONNX running in the browser. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/recommendation-anime](https://github.com/giovaninogueira/recommendation-anime) – Anime recommendation system using neural networks that learns user taste profiles and suggests new titles. Built with NestJS, TensorFlow.js and PostgreSQL. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/doom-rag](https://github.com/giovaninogueira/doom-rag) – RAG system built over the DOOM universe lore, from the classic 1993 trilogy to The Dark Ages. Ask questions in natural language and get answers grounded in official lore using Neo4j graph database and Gemini. **by [@giovaninogueira](https://github.com/giovaninogueira)**
+- [kurybr/hootka](https://github.com/kurybr/hootka) `📜` `☁️` – Open source gamified quiz platform with real-time rooms, global rankings, asynchronous matches, and AI-powered quiz generation. **by [@kurybr](https://github.com/kurybr)**
+- [kauanevieira/cat-care-recommender](https://github.com/kauanevieira/cat-care-recommender) – A recommendation system for cat care and products that combines a neural network (TensorFlow.js) with vector search (ChromaDB) to generate personalized suggestions based on the pet's profile. **by [@kauanevieira](https://github.com/kauanevieira)**
+- [kauanevieira/neuro-pet-ai](https://github.com/kauanevieira/neuro-pet-ai) – An evolutionary smart assistant for pets, built with React and Chrome's experimental Web AI. The project demonstrates advanced artificial intelligence concepts running entirely in the browser, with no backend and no calls to external APIs. **by [@kauanevieira](https://github.com/kauanevieira)**
+- [kauanevieira/win-game](https://github.com/kauanevieira/win-game) – This project was developed as part of a graduate program in Software Engineering with a focus on AI applications, specifically exploring single-client architecture, asynchronous processing using Web Workers, and in-browser neural network inference with TensorFlow.js and a YOLO model adapted for web execution. **by [@kauanevieira](https://github.com/kauanevieira)**
+
 
 ---
 
 ### ⚡ Integrations & Automations
 
 Projects that connect services, automate workflows, or react to events.
+
+- [barateza/dubweave](https://github.com/barateza/dubweave) `🐍` `🏠` `🔗` – Complete and local video dubbing pipeline for Brazilian Portuguese with GPU acceleration. **by [@barateza](https://github.com/barateza)**
 
 - [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
 
@@ -112,11 +123,13 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [ElizioMartins/projeto-00-ibge-tensores](https://github.com/ElizioMartins/projeto-00-ibge-tensores) `📇` `🏠` – Population Predictor using IBGE demographic data and Machine Learning. **by [@ElizioMartins](https://github.com/ElizioMartins)**
 - [ftonato/auris](https://github.com/ftonato/auris) `📇` `☁️` – Production-grade Node.js RAG system with hybrid retrieval, pluggable adapters, and OpenTelemetry tracing. **by [@ftonato](https://github.com/ftonato)**
+- [sayymon/holocron](https://github.com/sayymon/holocron) `📇` `☁️` `🔗` – AI-powered tutor for the Applied AI Engineering course: atomic Obsidian-compatible knowledge base, RAG pipeline with pgvector, MCP server for IDE integration, and a Socratic agent that challenges students to think deeper. **by [@sayymon](https://github.com/sayymon)**
 - [lucas-figueiredo-m/radar](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
 - [JeisonSilva/chat-document-response](https://github.com/JeisonSilva/chat-document-response) `📇` `☁️` `🔗` – RAG pipeline that ingests PDFs into Neo4j using local HuggingFace embeddings and answers natural-language questions via OpenRouter LLMs. **by [@JeisonSilva](https://github.com/JeisonSilva)**
 - [Brunoolliveira1993/code-review-ai](https://github.com/Brunoolliveira1993/code-review-ai) `📇` `🏠` - Analyzes GitHub Pull Requests,analyzes GitLab and GitLab Merge Requests, collects the PR/MR or commit diff, sends the code to AI via OpenRouter, and displays found issues and suggestions **by [@Brunoolliveira1993](https://github.com/Brunoolliveira1993)**
 - [andremenegassi/rag-csharp](https://github.com/https://github.com/andremenegassi/rag-csharp) `#️⃣` `☁️` - ASP.NET Core API for AI features focused on RAG (Retrieval-Augmented Generation), enabling document upload and indexing (.md and .pdf), semantic chunk search with Elasticsearch, and context-aware question answering using OpenAI. **by @[andremenegassi](https://github.com/andremenegassi)**
+- [etrapp/youtube-comments-analyzer](https://github.com/etrapp/youtube-comments-analyzer) `🐍` `🔗` – A tool for analyzing YouTube video satisfaction through comments using MCP, RAG, LLM. **by [@etrapp](https://github.com/etrapp)**
 ---
 
 ### 📦 Other
@@ -124,7 +137,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 Anything that doesn't fit neatly into the categories above.
 
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
-*No projects yet — be the first to submit one!*
+- [L1134/safesteps-mozambique](https://github.com/L1134/safesteps-mozambique) `📇` `☁️` `🔗` – Offline-first Flutter app delivering child-safe explosive risk education (EORE) for UNICEF Mozambique, with multilingual support (PT/Swahili/Makhuwa/Makonde), on-device SQLite, gamified lessons, and a humanitarian analytics dashboard. **by [@L1134](https://github.com/L1134)**
 
 ---
 
